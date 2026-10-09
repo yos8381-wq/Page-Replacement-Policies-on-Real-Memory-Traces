@@ -150,7 +150,13 @@ Result: The framework correctly predicted the best policy for all three SPEC tra
 Maged Dahaq - Computing Master's Student
 GitHub: @yos8381-wq
 
+## Acknowledgments
+
+This work was conducted under the supervision of 
+Dr. Wdad al-Sorori, Department of Computer Science – Lecturer – Graduate Studies – Advanced Operating Systems, 
+University of Science and Technology, Sana'a, Yemen.
+
+
 ## License
 
 MIT License. See LICENSE file for details.
-EOF
