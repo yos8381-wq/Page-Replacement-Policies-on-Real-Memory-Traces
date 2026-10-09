@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Page Replacement Policies on Real Memory Traces
 ## LRU, Clock, FIFO, and Optimal Compared in Python
 
