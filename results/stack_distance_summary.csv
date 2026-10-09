@@ -1,0 +1,4 @@
+trace,total_refs,compulsory_misses,mean_distance,median_distance,p90_distance,p99_distance,max_distance
+swim,20000,36,6.435183329993989,9.0,9.0,9.0,25.0
+gcc,20000,752,12.512312967581048,1.0,26.0,280.0,651.0
+bzip,20000,285,2.865584580268831,0.0,2.0,76.0,282.0
