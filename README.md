@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/23403576.svg)](https://zenodo.org/badge/latestdoi/23403576)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23403576.svg)](https://doi.org/10.5281/zenodo.23403576)
 # Page Replacement Policies on Real Memory Traces
 ## LRU, Clock, FIFO, and Optimal Compared in Python
 
