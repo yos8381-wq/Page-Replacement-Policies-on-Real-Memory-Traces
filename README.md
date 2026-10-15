@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23403576.svg)](https://doi.org/10.5281/zenodo.23403576)
 
 # Page Replacement Policies on Real Memory Traces
-# Page Replacement Policies on Real Memory Traces
 ## LRU, Clock, FIFO, and Optimal Compared in Python
 
 A validated, open-source simulation study comparing four classical page replacement policies (LRU, Clock, FIFO, and OPT) on real memory traces from the SPEC benchmark suite (SWIM, GCC, BZIP2).
